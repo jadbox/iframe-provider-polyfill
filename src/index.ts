@@ -1,4 +1,4 @@
-import { IFrameEthereumProvider } from '@ethvault/iframe-provider';
+import { IFrameEthereumProvider } from '@jadbox/iframe-provider';
 
 /**
  * Return true if the current window context appears to be embedded within an iframe element.

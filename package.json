@@ -1,5 +1,5 @@
 {
-  "name": "@ethvault/iframe-provider-polyfill",
+  "name": "@jadbox/iframe-provider-polyfill",
   "version": "0.1.6",
   "description": "Polyfill web3/ethereum with a provider that uses the parent window when the site is embedded in an iframe",
   "main": "dist/index.js",
@@ -14,7 +14,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ethvault/iframe-provider-polyfill.git"
+    "url": "git+https://github.com/jadbox/iframe-provider-polyfill.git"
   },
   "keywords": [
     "ethereum",
@@ -25,11 +25,11 @@
   "author": "Moody Salem <moody.salem@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ethvault/iframe-provider-polyfill/issues"
+    "url": "https://github.com/jadbox/iframe-provider-polyfill/issues"
   },
-  "homepage": "https://github.com/ethvault/iframe-provider-polyfill#readme",
+  "homepage": "https://github.com/jadbox/iframe-provider-polyfill#readme",
   "devDependencies": {
-    "@ethvault/iframe-provider": "^0.1.9",
+    "@jadbox/iframe-provider": "^0.1.9",
     "rimraf": "^2.6.3",
     "ts-loader": "^6.0.4",
     "typescript": "^3.5.3",
