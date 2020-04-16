@@ -7,6 +7,8 @@ export function isEmbeddedInIFrame(): boolean {
   return window && window.parent && window.self && window.parent !== window.self;
 }
 
+console.log('isEmbeddedInIFrame()', isEmbeddedInIFrame());
+
 if (isEmbeddedInIFrame()) {
   const target = window as any;
 
