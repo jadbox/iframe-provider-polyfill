@@ -3,9 +3,9 @@
 
 
 "@jadbox/iframe-provider@^0.1.9":
-  version "0.1.12"
-  resolved "https://registry.yarnpkg.com/@jadbox/iframe-provider/-/iframe-provider-0.1.12.tgz#8c11849948157c403d60c341ecb91f6fc58046a9"
-  integrity sha512-dpgLFJE/CZr/jCyYJV3iLdpnH8XNWMsvcOp9TsbsN7bQfqJYhJY4ghTo0bkCFVqQfmS+jGny6GUb9wYbKPRCuw==
+  version "0.1.13"
+  resolved "https://registry.yarnpkg.com/@jadbox/iframe-provider/-/iframe-provider-0.1.13.tgz#2f4726b1c5635e52e304296002e0f6740af372a3"
+  integrity sha512-S1q2mDPbX3l1chZXuAK9swvIbdT1FgXig7Htg3mfQrCshQk8DtepFQc3SqJLMuhQc6i4Yt6p79lo+vjk/4DX7Q==
   dependencies:
     eventemitter3 "^4.0.0"
 
