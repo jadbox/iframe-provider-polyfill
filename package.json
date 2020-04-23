@@ -29,11 +29,13 @@
   },
   "homepage": "https://github.com/jadbox/iframe-provider-polyfill#readme",
   "devDependencies": {
-    "@jadbox/iframe-provider": "^0.1.16",
     "rimraf": "^2.6.3",
     "ts-loader": "^6.0.4",
     "typescript": "^3.5.3",
     "webpack": "^4.35.3",
     "webpack-cli": "^3.3.5"
+  },
+  "dependencies": {
+    "@jadbox/iframe-provider": "^0.1.17"
   }
 }
