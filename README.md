@@ -1,4 +1,4 @@
-# jadbox/iframe-provider-polyfill
+# 3Frame [aka iframe-provider-polyfill]
 
 [![Build Status](https://travis-ci.org/jadbox/iframe-provider-polyfill.svg?branch=master)](https://travis-ci.org/jadbox/iframe-provider-polyfill)
 [![MinZipped size](https://badgen.net/bundlephobia/minzip/@jadbox/iframe-provider-polyfill)](https://bundlephobia.com/result?p=@jadbox/iframe-provider-polyfill@0.1.4)
