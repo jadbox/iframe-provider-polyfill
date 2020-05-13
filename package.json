@@ -36,6 +36,6 @@
     "webpack-cli": "^3.3.5"
   },
   "dependencies": {
-    "@jadbox/iframe-provider": "^0.1.17"
+    "@jadbox/iframe-provider": "^0.1.18"
   }
 }

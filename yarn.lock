@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@jadbox/iframe-provider@^0.1.17":
-  version "0.1.17"
-  resolved "https://registry.yarnpkg.com/@jadbox/iframe-provider/-/iframe-provider-0.1.17.tgz#53aa4261d9a946fdfd6ec1183d819a9276a4f11b"
-  integrity sha512-qHFh+5n4IGuaDTjjwKi5ubdM+/32UobcLUFU7spyrfqRDy6gkP+6FL3PTP7XFbzt3e71HFUrQrmADnC5vjbcjA==
+"@jadbox/iframe-provider@^0.1.18":
+  version "0.1.18"
+  resolved "https://registry.yarnpkg.com/@jadbox/iframe-provider/-/iframe-provider-0.1.18.tgz#2058acc7fb9bf2294a2aa62040648099ccc71a13"
+  integrity sha512-gS7hPnf7AmBNuuvbUSxPGA5vNDYsCVv/BtdUKZNG3kmweKkMgjAwIFKkpv3u84iBxyt8Q44RYZZ+p/JpGLH9lw==
   dependencies:
     eventemitter3 "^4.0.0"
 
